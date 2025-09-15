@@ -265,7 +265,7 @@
         </div>
         
         <div class="slideshow-container">
-            <div class="slide active" style="background-image: url('https://drive.google.com/file/d/12LabUvyPXya7Wo3bGgE6bss5OERFVdb9/view?usp=sharing')">
+            <div class="slide active" style="background-image: url('patricia1.png')">
                 <div class="slide-caption">Our First Memory Together</div>
             </div>
             <div class="slide" style="background-image: url('https://drive.google.com/file/d/1PPW_PY8dFXarjm0avavMCOmwYR9fPTka/view?usp=drive_link')">
