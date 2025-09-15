@@ -268,7 +268,7 @@
             <div class="slide active" style="background-image: url('patricia1.png')">
                 <div class="slide-caption">Our First Memory Together</div>
             </div>
-            <div class="slide" style="background-image: url('https://drive.google.com/file/d/1PPW_PY8dFXarjm0avavMCOmwYR9fPTka/view?usp=drive_link')">
+            <div class="slide" style="background-image: url('https://github.com/leemarchael/marchael.website/blob/3c8ed0a49f8b792700def9a29efede068526c3f0/IMG_20240123_181023.jpg')">
                 <div class="slide-caption">Our Special Moment</div>
             </div>
             <div class="slide" style="background-image: url('https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/60ec3aad-a8ae-40df-b5c0-2c0d0816f6e6.png')">
