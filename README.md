@@ -269,7 +269,6 @@
                 <div class="slide-caption">Our First Memory Together</div>
             </div>
             <div class="slide" style="background-image: url('https://github.com/leemarchael/marchael.website/blob/3c8ed0a49f8b792700def9a29efede068526c3f0/IMG_20240123_181023.jpg')">
-                <div class="slide-caption">Our Special Moment</div>
             </div>
             <div class="slide" style="background-image: url('https://github.com/leemarchael/marchael.website/blob/8829b2a23243d06959bec7fe370d70a17b127c95/patricia1.jpeg')">
                 <div class="slide-caption">Happy Times</div>
