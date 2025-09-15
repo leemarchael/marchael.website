@@ -265,7 +265,7 @@
         </div>
         
         <div class="slideshow-container">
-            <div class="slide active" style="background-image: url('patricia1.png')">
+            <div class="slide active" style="background-image: url('![image alt](https://github.com/leemarchael/marchael.website/blob/3c8ed0a49f8b792700def9a29efede068526c3f0/IMG_20240123_181023.jpg)">
                 <div class="slide-caption">Our First Memory Together</div>
             </div>
             <div class="slide" style="background-image: url('https://github.com/leemarchael/marchael.website/blob/3c8ed0a49f8b792700def9a29efede068526c3f0/IMG_20240123_181023.jpg')">
